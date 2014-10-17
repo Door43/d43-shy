@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[shy:home|Door43 (shy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-shy|d43-shy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-shy/archive/master.zip|d43-shy.zip]]
+
+**Recent Changes**
+{{changes>ns = shy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/shy|Ethnologue data]]
+
